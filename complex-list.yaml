@@ -1,0 +1,10 @@
+students : 
+  - 
+    name : virendra
+    age : 23
+    from : 'jabalpur'
+  
+  - 
+    name : sandeep
+    age : 23
+    from : "indore"

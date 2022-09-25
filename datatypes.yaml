@@ -1,0 +1,12 @@
+firstName : 'Virendra'
+lastName : "Patel"
+fullName : Virendra kumar patel
+
+age : 23
+marks : 23.34
+
+learning : !!str I am learning javascript
+day number : !!int 29
+learningNew : !!bool true
+
+

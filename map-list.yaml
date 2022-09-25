@@ -1,0 +1,17 @@
+fruits: 
+  - apple
+  - banana
+  - graps
+  - papaya
+
+students: 
+ - virendra
+ - sandeep
+ - harsh
+ - sumit
+
+languages : 
+ - javascript
+ - typescript
+ - java
+ 
