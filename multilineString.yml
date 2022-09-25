@@ -1,0 +1,14 @@
+message : 
+  this is in multiple here but
+  this will be simple line message
+
+message2 : | 
+  this is multiple
+  line messages
+
+
+
+# {
+#   "message": "this is in multiple here but this will be simple line message",
+#   "message2": "this is multiple\nline messages\n"
+# }
