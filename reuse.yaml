@@ -1,0 +1,12 @@
+langs: &langs
+  - javascript
+  - typescript
+  - java
+  - python
+
+students:
+  - name: "virendra"
+    laguages: *langs
+
+  - name: sandeep
+    languages: *langs
